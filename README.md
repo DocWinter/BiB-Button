@@ -8,10 +8,10 @@ the state changes.
 
 ## TODO
 
-- [] Put the old bash code in the project
-- [] Rework `BIBButton.is_bib_open()` to get the information directly from the MCU instead of the website.
-- [] Add some `asyncio` here and there
-- [] Clean `BIBButton.run()`
+- [ ] Put the old bash code in the project.
+- [ ] Rework `BIBButton.is_bib_open()` to get the information directly from the MCU instead of the website.
+- [ ] Add some `asyncio` here and there.
+- [ ] Clean `BIBButton.run()`.
 
 ## License
 
