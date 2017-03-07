@@ -11,9 +11,10 @@ the state changes.
 - [ ] Put the old bash code in the project.
 - [ ] Rework `BIBButton.is_bib_open()` to get the information directly from the MCU instead of the website.
 - [ ] Add some `asyncio` here and there.
-- [ ] Clean `BIBButton.run()`.
+- [ ] Clean `BIBButton.run()`
 
 ## License
 
 [MIT License](https://github.com/DocWinter/BiB-Button/blob/master/LICENSE.md)
+
 Copyright (c) 2017 Thomas Sauze
